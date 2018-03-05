@@ -12,7 +12,7 @@ class JBDatePickerSelectionView: UIView {
     
     // MARK: - Computed properties
     
-    private let padding: CGFloat = 15
+    private let padding: CGFloat = 5
     
     private var radius: CGFloat {
         
